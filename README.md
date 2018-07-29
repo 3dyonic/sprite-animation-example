@@ -1,6 +1,6 @@
 # coral-pab-animation example
 
-[https://yonatan-gala.github.io/coral-pab-annimation/]
+[https://yonatan-gala.github.io/pab-annimation]
 
 ## demonstration for Pick A BOX animation
 
