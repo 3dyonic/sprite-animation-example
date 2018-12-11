@@ -1,4 +1,4 @@
-# coral-pab-animation example
+# sprute animation example
 
 [https://yonatan-gala.github.io/pab-annimation]
 
