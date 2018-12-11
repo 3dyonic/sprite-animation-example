@@ -1,4 +1,4 @@
-# sprute animation example
+# sprite animation example
 
 [https://yonatan-gala.github.io/pab-annimation]
 
